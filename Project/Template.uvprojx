@@ -389,14 +389,29 @@
               <FilePath>..\User\Source\main.c</FilePath>
             </File>
             <File>
+              <FileName>main.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\User\Include\main.h</FilePath>
+            </File>
+            <File>
               <FileName>stm32f1xx_it.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\User\Source\stm32f1xx_it.c</FilePath>
             </File>
             <File>
+              <FileName>stm32f1xx_it.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\User\Include\stm32f1xx_it.h</FilePath>
+            </File>
+            <File>
               <FileName>system_stm32f1xx.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\User\Source\system_stm32f1xx.c</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f1xx_hal_conf.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\User\Include\stm32f1xx_hal_conf.h</FilePath>
             </File>
           </Files>
         </Group>
